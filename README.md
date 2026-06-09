@@ -35,7 +35,7 @@ password-manager/
 └── data.json      # Auto-generated file where passwords are stored locally
 ```
 
-## Example Entry in data.json
+## Example Entry in data.txt
 
 ```json
 {
