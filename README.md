@@ -23,7 +23,7 @@ python main.py
 
 1. Enter the **website**, **email**, and **password**
 2. Click **Generate Password** to create a strong random password — it copies to your clipboard automatically
-3. Click **Add** to save the credentials to `data.json`
+3. Click **Add** to save the credentials to `data.txt`
 4. Use the **Search** button to retrieve a saved password by website name
 
 ## Project Structure
@@ -32,7 +32,7 @@ python main.py
 password-manager/
 │
 ├── main.py        # All UI and logic in a single script
-└── data.json      # Auto-generated file where passwords are stored locally
+└── data.txt      # Auto-generated file where passwords are stored locally
 ```
 
 ## Example Entry in data.txt
